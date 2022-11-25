@@ -131,3 +131,10 @@
   width: 20px;
   object-fit: contain;
 }
+.App > img{
+  width: 30%;  
+  object-fit: contain;
+  flex-grow: 1 auto;
+
+  
+}
