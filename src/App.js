@@ -62,6 +62,7 @@ function App() {
   };
   return (
     <div className="App">
+      <img src="https://iili.io/HF7QyyQ.jpg" alt=""/>
       <div className="product">
         <>
           <div className="prod-container">
